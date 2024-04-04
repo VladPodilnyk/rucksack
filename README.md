@@ -1,4 +1,4 @@
-# rucksack
+# rucksack 🚧
 
 A rucksack is a distributed key-value database.
 The project is essentially an attempt to get deeper into distributed systems and database internals.
